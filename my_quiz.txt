@@ -30,7 +30,7 @@ promotional activities
 홍보활동, 판촉활동
 
 be in life for a promotion
-곧 승지하게 되다
+곧 승진하게 되다
 
 demotion / he was demoted to the rank of ordinary soldier
 강등 / 그는 일반 군인의 계급으로 강등되었다
@@ -152,8 +152,8 @@ She's busy trimming the garden hedge
 loan application
 대출 신청
 
-Out nation has abundant opportunities for well-educated young mem and women
-우리나라는 잘 교육받은 젊은 남녀를 위한 기회가 풍부하다
+Our nation has abundant opportunities for well-educated young men and women
+우리나라에는 교육을 잘 받은 젊은 남녀를 위한 기회가 풍부합니다
 
 obligation / obligatory
 의무, 책무 / 의무적인
@@ -203,8 +203,8 @@ The bus was filled to capacity
 He will be severely reprimanded for failing to do his duty
 그는 그의 의무를 다하지 못한 것에 대해 호되게 질책 받을 것이다
 
-The decision will have to be ratified by by the executive board / ratification
-그 결정은 중역 회의에서 비준되어야 할 것이다 / 비준, 제가
+ratification / The decision will have to be ratified by the executive board
+비준 / 그 결정은 집행위원회의 승인을 거쳐야 할 것이다
 
 They took off shortly after 8 am
 그들은 오전 8시 직후에 이륙했다
@@ -248,8 +248,8 @@ litigant / litigation
 In spite of its denials, the company is wholly responsible for the accident, and we are prepared to litigate if necessary
 회사의 부인에도 불구하고, 그 회사는 그 사고에 전적으로 책임이 있다. 그리고 우리는 필요하다면 소송할 준비가 되어있다
 
-She had an instantaneous certainly that it must have been Peter downstairs
-그녀는 Peter 가 아래층에 틀림없이 있다는 순간적인 확신을 가졌다
+She was instantly certain that it must have been Peter downstairs
+그녀는 아래층에 있는 사람이 틀림없이 Peter였을 거라고 즉각 확신했습니다
 
 The museum is free of charge
 그 박물관은 무료이다
@@ -339,7 +339,7 @@ This taxation system will cause serious detriment to Korean economy
 이 세금제도는 한국 경제에 심각한 해를 가져올 것이다
 
 concerning / He refused to answer questions concerning his wage
-~에 관하여 / 그는 그의 이름에 대한 질문에 대답하기를 거절했다
+~와 관련하여 / 그는 자신의 임금과 관련된 질문들에 답하기를 거부했다
 
 The car narrowly missed a cyclist
 그 자동차가 자전거를 탄 사람을 간신히 피했다
@@ -391,7 +391,7 @@ His expenses exceed his income by far
 그의 지출은 수입을 훨씬 초과하고 있다
 
 I swept the room with the broom
-바로 방을 쓸었다
+나는 빗자루로 방을 쓸었다
 
 On my way to Busan, I encountered a turbulent storm
 부산으로 가는 길에 나는 사나운 폭풍을 만났다
@@ -409,7 +409,7 @@ You have to be a born optimist to be able to do this job and not despair
 당신은 절망하지 않고 이 일을 할 수 있는 타고난 낙천가임에 틀림없다
 
 The pessimists among us can see no sign of economic recovery in the near future
-우리 중에서 비관론자들은 가까운 미래에 겨제적 회복의 기미를 볼 수 없다
+우리 가운데 비관적인 이들은 가까운 미래에 경제가 회복될 조짐을 전혀 보지 못하고 있다
 
 gross profit / gross income
 총수익 / 총소득, 총수익
@@ -469,7 +469,7 @@ I am making only a partial payment at the present time and will pay off the bala
 지금 일부분만 지불하고 나머지는 분할로 갚겠습니다
 
 Could you check my balance, please?
-내 잔고가 얼마인지 좀 알아봐주시겠어요?
+잔액을 확인해 주시겠어요?
 
 Several innocent bystanders were injured in the explosion
 몇몇 무고한 구경꾼들은 폭발에 의해 상해를 입었다
@@ -495,7 +495,7 @@ by no means / He is by no means poor; in fact, he's rich
 The warehouse stores 50 tons of rice
 그 창고는 쌀이 50톤 들어간다
 
-These figures could bree overtaken by the end of the year
+These figures could be overtaken by the end of the year
 연말쯤이면 이들 수치를 추월할 수 있을 것이다
 
 Passengers should embark early
@@ -558,8 +558,8 @@ We had to make a detour round the floods
 treaty / devote
 조약, 협정 / 헌신하다
 
-She has devoted all her energies to the card of homeless people
-그녀는 모든 에너지를 집이 없는 사람들을 돌보는데 쏟았다
+She has devoted all her energies to the care of homeless people
+그녀는 노숙인들을 돌보는 일에 자신의 모든 에너지를 쏟아부었다
 
 stagger / It is a staggering amount of money
 비틀거리다 / 이것은 엄청난 거액이다
@@ -677,7 +677,7 @@ In recent years, drought has damaged to the harvest
 최근 몇 년동안 가뭄이 수확물에 피해를 입혔다
 
 swiftly / The official response was swift
-공식적인 조치는 신속했다
+신속하게 / 공식 대응은 신속했다
 
 The firm excels at producing cheap radios
 그 회사는 값싼 라디오 생산에 있어서 탁월하다
@@ -688,8 +688,8 @@ un unequal bargain
 buy at a bargain / It's a bargain
 싸게 사다 / 정말 싸다
 
-eternity / The company is engaed in the eternal search for a product that will lead the market
-그 회사는 시장을 이끌 생산품에 대한 영원한 탐구에 종사하고 있다
+eternity / The company is engaged in the eternal search for a product that will lead the market
+영원 / 그 기업은 시장을 선도할 제품을 찾기 위한 영원한 탐색을 이어가고 있다
 
 You have the right to an attorney
 당신은 변호사를 선임할 권리가 있습니다
@@ -773,7 +773,7 @@ He was highly embarrassed by this confession
 그는 이 고백에 매우 당황했다
 
 The feminine story was narrated in the film
-그 영성의 이야기는 영화에서 이야기되었다
+그 여성의 이야기는 영화에서 이야기되었다
 
 Do potent drugs work on the common cold?
 강한 약들이 일반 감기에 효과가 있나요?
@@ -803,7 +803,7 @@ She dedicated herself to the anti-nuclear movement
 그녀는 반핵 운동에 헌신했다
 
 He endeavored to adopt a positive but realistic attitude
-그는 적극적이지만 현실적인 태도를 수요하려고 노력했다
+그는 긍정적이면서도 현실적인 태도를 취하려고 노력했습니다
 
 Vacuum cleaners work by suction
 진공청소기는 빨아들임으로써 작동을 한다
@@ -821,7 +821,7 @@ The car is in the garage
 그 차는 차고에 있다
 
 He made a seeping statement on the current situation
-그는 현재 상황에 대해 표괄적으로 말했다
+그는 현 상황에 대해 포괄적인 발언을 했다
 
 actuate / He was actuated solely by freed
 작동시키다 / 그는 전적으로 탐욕 때문에 행동했다
@@ -845,7 +845,7 @@ rationalism / irrational / From an objective viewpoint, his argument was far fro
 합리주의 / 불합리한 / 객관적으로 볼 때 그의 주장은 전혀 이치에 맞지 않았다
 
 conduct a survey / conduct research / conduct inspections
-조사하다 / 조사하다 / 검사하다
+설문조사를 실시하다 / 연구를 수행하다 / 점검을 실시하다
 
 She was momentarily frozen by the sight
 그 광경을 보고 그녀는 순간적으로 몸이 얼어붙었다
@@ -890,7 +890,7 @@ Let us adore God for all his works
 신이 만든 모든 것에 대해 신을 경배합시다
 
 annual leave / annual growth rate
-엽차 휴가 / 연간 성장률
+연차 휴가 / 연간 성장률
 
 The take was shared equally by the two contestants
 수익은 두 경쟁사가 똑같이 나눠 가졌다
@@ -1100,8 +1100,8 @@ She gets on well with her peer group
 The remark slipped out quite accidentally
 그 말은 우연히 새어나갔다
 
-opponent / opposition / opposite / In both debate and discussion, opposing ideas are presented in an attempt to persuage people
-반대자 / 반대 / 반대편의 / 토론과 토의에서, 사람들을 설득하기 위한 시도에서 반대 의견들이 제시된다
+opponent / opposition / opposite / In both debate and discussion, opposing ideas are presented in an attempt to persuade people
+반대자 / 반대 / 반대편의 / 토론과 논의 모두에서, 사람들을 설득하기 위한 시도로 상반된 의견들이 제시된다
 
 prudent / Since he had a reputation for being a prudent business his bankruptcy came as quite a surprise
 신중한 / 그는 주의 깊은 사업가란 평판을 가지고 있었으므로 그의 도산은 꽤 놀랍게 느껴졌다
@@ -1179,7 +1179,7 @@ customary / It's customary to bargain in Korean traditional markets
 한국의 전통시장에서 값을 깎는 것은 관례적이다
 
 landscaper / landscape painting
-정원서 / 풍경화
+풍경 화가 / 풍경화
 
 prior engagement / You have to get health insurance prior to enrollment
 선약 / 등록하기 전에 의료보험에 가입해야 합니다
@@ -1311,8 +1311,8 @@ I will be OOO (out of office) from May 1 (first) to May 5 (fifth).
 I will be away next week.
 다음 주에는 자리를 비울 예정입니다.
 
-I'm taking next week off / I will be on vacation / holiday next week.
-다음 주에 휴가를 냅니다.
+I'm taking next week off / I will be on vacation / I will be on holiday next week
+다음 주에 쉴 예정이에요 / 다음 주에 휴가에요
 
 I'm taking some time off next week.
 다음 주에 며칠 쉬려고 합니다.
@@ -1372,7 +1372,7 @@ move up
 앞당기다
 
 We could hold off on next week's meeting.
-다음 주 회의는 일단 미뤄도 될 것 같습니다.
+다음 주 회의는 미뤄도 될 것 같습니다.
 
 Please confirm if 7/29 ETA is on track ahead of Monday afternoon's Samsung sync.
 월요일 오후 삼성 미팅 전에 7월 29일 ETA가 예정대로 진행되고 있는지 확인해 주세요.
@@ -1434,8 +1434,8 @@ He was off that day.
 We put Lime to bed.
 우리는 라임을 재웠습니다.
 
-I'll make a note and write it down.
-메모해 두겠습니다. / 적어 두겠습니다.
+I'll make a note and write it down
+메모를 해두고 적어놓을게요
 
 That is my understanding.
 제가 이해한 내용은 그렇습니다.
@@ -1567,8 +1567,8 @@ Turn to page ten. What picture is this?
 If you need to poop, tell Daddy first, okay?
 응아 마려우면 아빠한테 꼭 미리 이야기해
 
-Poop and pee go in the diaper, or in the toilet, okay?
-응아랑 쉬아는 기저귀에다가 해야돼, 아니면 화장실 변기에다가 해야돼?
+You need to do your poops and pees in the toilet—not in your diaper. Okay?
+응아랑 쉬아는 화장실 변기에다가 해야돼, 기저귀에 하면 안돼. 알겠지?
 
 Good job! You pooped in the toilet! I’m so proud of you!
 잘했어 우리아가 변기에다가 응아잘했네
@@ -1600,7 +1600,7 @@ Let’s clean up together with Mommy and Daddy. Lime, put these cards in one pla
 No, not here. Let’s put it up there.
 아니야 이건 여기다가 놓으면 안돼. 저기 위에 올려두자
 
-Oh my, it’s so messy. Lime, you need to clean this up.
+Oh my, when did you make such a mess? Looks like Lime needs a scolding
 아이고 언제 이렇게 어지렵혔어. 라임이 혼나야겠구나.
 
 It’s clean-up time now. Stop playing and let’s clean up together.
@@ -1645,7 +1645,7 @@ Do you want some meat? Shall we go eat some meat?
 Be careful. Eat slowly so you don’t spill.
 자 흘리면 안되니깐 조심히 천천히 먹어
 
-No, you have to eat this too. Eat a little of everything. It’s good for you.
+No, you need to eat a variety of things. Eating only one type isn't good for your health
 안돼, 이것도 골구로 먹어야돼. 하나만 먹으면 건강에 안좋아
 
 Chew and eat. If you don’t eat, Daddy will turn off the video.
@@ -1714,13 +1714,13 @@ Do you want to go buy candy with Daddy? The pharmacy or the mart? Do you want mo
 Daddy, can I have one too? Just one bite, please.
 아빠도 하나만 주세요. 한 입만 먹을게
 
-Daddy, you said two. Please give me two.
+You said you’d give me two, Dad. Come on, hand them over!
 아빠 두개 준다고 했었잖아. 얼른 주세요
 
 No! Daddy will be upset.
 안돼! 아빠한테 혼난다!
 
-Mommy, Lime didn’t clean up. She needs a time-out.
+Lime’s mom, please scold Lime—she didn’t clean up her place
 라임이 엄마, 라임이 집 안치웠으니깐 혼내주세요
 
 Daddy told you not to hit your friend. You’re in trouble.
@@ -1792,7 +1792,7 @@ Lime, let’s sleep a little more. Lie on Daddy’s arm. No?
 Okay, let’s get up. Let’s go see Mommy.
 그래 일어나자, 일어나서 엄마한테 가자
 
-Daddy will turn off the humidifier and heater and plug in his phone. Wait a moment, okay?
+I’m going to turn off the humidifier and the boiler, and plug in Dad’s phone to charge—just wait a moment, okay?
 가습기도 끄고, 보일러도 끄고 아빠 폰 충전만하고 올게 잠시만 기다려봐
 
 Come here, let Daddy hold you. Let’s go to Mommy.
