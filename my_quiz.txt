@@ -2,6 +2,12 @@
 // 빈 줄과 // # $ % & ! 로 시작하는 줄은 주석으로 보고 건너뜀
 
 // 경선식 1강 ~ 5강
+We can share the plan once we are through PSA - folks are heads down working towards that goal right now
+PSA 절차를 마치고 나면 계획을 공유해 드릴 수 있을 것입니다. 현재 팀원들이 그 목표를 달성하기 위해 집중적으로 작업하고 있습니다
+
+He will be able to chime in here
+그가 이 부분에 대해 의견을 보태줄 수 있을 것입니다
+
 be jammed
 꽉 들어차다
 
